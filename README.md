@@ -23,7 +23,7 @@ npm start
 ```
 
 # Screenshots
-![](https://github.com/ongyishen/UIKittenRNExpo/blob/main/sample.gif?raw=true)
+![](https://github.com/ongyishen/UIKittenRNExpo/blob/main/Sample.gif?raw=true)
 
 # Expo Publish Link
 [Expo  Link](https://expo.io/@ongeason/projects/UIKittenRNExpo)
